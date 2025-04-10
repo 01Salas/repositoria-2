@@ -1,0 +1,7 @@
+C:\Users\Sebastián Salas\OneDrive\Documentos\Nueva carpeta\SEMANA 3 YORDAN\Fundamentos de algoritmos\SEMANA 3\bin\Debug\SEMANA 3.exe.config
+C:\Users\Sebastián Salas\OneDrive\Documentos\Nueva carpeta\SEMANA 3 YORDAN\Fundamentos de algoritmos\SEMANA 3\bin\Debug\SEMANA 3.exe
+C:\Users\Sebastián Salas\OneDrive\Documentos\Nueva carpeta\SEMANA 3 YORDAN\Fundamentos de algoritmos\SEMANA 3\bin\Debug\SEMANA 3.pdb
+C:\Users\Sebastián Salas\OneDrive\Documentos\Nueva carpeta\SEMANA 3 YORDAN\Fundamentos de algoritmos\SEMANA 3\obj\Debug\SEMANA 3.csproj.AssemblyReference.cache
+C:\Users\Sebastián Salas\OneDrive\Documentos\Nueva carpeta\SEMANA 3 YORDAN\Fundamentos de algoritmos\SEMANA 3\obj\Debug\SEMANA 3.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Salas\OneDrive\Documentos\Nueva carpeta\SEMANA 3 YORDAN\Fundamentos de algoritmos\SEMANA 3\obj\Debug\SEMANA 3.exe
+C:\Users\Sebastián Salas\OneDrive\Documentos\Nueva carpeta\SEMANA 3 YORDAN\Fundamentos de algoritmos\SEMANA 3\obj\Debug\SEMANA 3.pdb
