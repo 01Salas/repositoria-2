@@ -104,5 +104,6 @@ namespace SEMANA_3
             Console.WriteLine("La potencia a 3 es: " + Math.Pow(num1, 3));
         }
 
+
     }
 }
