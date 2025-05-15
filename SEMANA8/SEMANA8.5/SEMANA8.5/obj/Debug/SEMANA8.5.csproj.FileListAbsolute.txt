@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\repositoria-2\SEMANA8\SEMANA8.5\SEMANA8.5\bin\Debug\SEMANA8.5.exe.config
+C:\Users\UPN\Documents\repositoria-2\SEMANA8\SEMANA8.5\SEMANA8.5\bin\Debug\SEMANA8.5.exe
+C:\Users\UPN\Documents\repositoria-2\SEMANA8\SEMANA8.5\SEMANA8.5\bin\Debug\SEMANA8.5.pdb
+C:\Users\UPN\Documents\repositoria-2\SEMANA8\SEMANA8.5\SEMANA8.5\obj\Debug\SEMANA8.5.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\repositoria-2\SEMANA8\SEMANA8.5\SEMANA8.5\obj\Debug\SEMANA8.5.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\repositoria-2\SEMANA8\SEMANA8.5\SEMANA8.5\obj\Debug\SEMANA8.5.exe
+C:\Users\UPN\Documents\repositoria-2\SEMANA8\SEMANA8.5\SEMANA8.5\obj\Debug\SEMANA8.5.pdb
