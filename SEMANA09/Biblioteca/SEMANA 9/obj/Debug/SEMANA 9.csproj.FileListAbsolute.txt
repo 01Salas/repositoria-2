@@ -1,0 +1,9 @@
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\bin\Debug\SEMANA 9.exe
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\bin\Debug\SEMANA 9.pdb
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\obj\Debug\SEMANA 9.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\obj\Debug\SEMANA 9.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\obj\Debug\SEMANA 9.exe
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\obj\Debug\SEMANA 9.pdb
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\bin\Debug\Biblioteca.dll
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\bin\Debug\Biblioteca.pdb
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\SEMANA 9\obj\Debug\SEMANA 9.csproj.Up2Date

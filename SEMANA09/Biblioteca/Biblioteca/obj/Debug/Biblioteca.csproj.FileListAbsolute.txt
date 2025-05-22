@@ -1,0 +1,6 @@
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
