@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\EJEMPLO02\bin\Debug\EJEMPLO02.exe.config
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\EJEMPLO02\bin\Debug\EJEMPLO02.exe
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\EJEMPLO02\bin\Debug\EJEMPLO02.pdb
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\EJEMPLO02\obj\Debug\EJEMPLO02.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\EJEMPLO02\obj\Debug\EJEMPLO02.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\EJEMPLO02\obj\Debug\EJEMPLO02.exe
+C:\Users\UPN\Documents\repositoria-2\SEMANA09\EJEMPLO02\obj\Debug\EJEMPLO02.pdb

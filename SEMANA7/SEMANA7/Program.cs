@@ -12,7 +12,7 @@ namespace SEMANA7
         static void Main(string[] args)
         {
 
-            ejer6();
+            ejer5();
             Console.ReadKey();
 
         }
