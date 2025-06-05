@@ -1,0 +1,6 @@
+C:\Users\UPN\Documents\SEMANA 11 - 11356\SEMANA 11\EJEMPLO03\bin\Debug\EJEMPLO03.exe
+C:\Users\UPN\Documents\SEMANA 11 - 11356\SEMANA 11\EJEMPLO03\bin\Debug\EJEMPLO03.pdb
+C:\Users\UPN\Documents\SEMANA 11 - 11356\SEMANA 11\EJEMPLO03\obj\Debug\EJEMPLO03.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\SEMANA 11 - 11356\SEMANA 11\EJEMPLO03\obj\Debug\EJEMPLO03.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\SEMANA 11 - 11356\SEMANA 11\EJEMPLO03\obj\Debug\EJEMPLO03.exe
+C:\Users\UPN\Documents\SEMANA 11 - 11356\SEMANA 11\EJEMPLO03\obj\Debug\EJEMPLO03.pdb
