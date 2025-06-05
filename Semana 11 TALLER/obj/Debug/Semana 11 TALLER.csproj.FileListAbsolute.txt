@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\repositoria-2\Semana 11 TALLER\bin\Debug\Semana 11 TALLER.exe
+C:\Users\UPN\Desktop\repositoria-2\Semana 11 TALLER\bin\Debug\Semana 11 TALLER.pdb
+C:\Users\UPN\Desktop\repositoria-2\Semana 11 TALLER\obj\Debug\Semana 11 TALLER.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\repositoria-2\Semana 11 TALLER\obj\Debug\Semana 11 TALLER.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\repositoria-2\Semana 11 TALLER\obj\Debug\Semana 11 TALLER.exe
+C:\Users\UPN\Desktop\repositoria-2\Semana 11 TALLER\obj\Debug\Semana 11 TALLER.pdb
