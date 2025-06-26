@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\SEMANA 14\bin\Debug\SEMANA 14.exe.config
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\SEMANA 14\bin\Debug\SEMANA 14.exe
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\SEMANA 14\bin\Debug\SEMANA 14.pdb
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\SEMANA 14\obj\Debug\SEMANA 14.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\SEMANA 14\obj\Debug\SEMANA 14.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\SEMANA 14\obj\Debug\SEMANA 14.exe
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\SEMANA 14\obj\Debug\SEMANA 14.pdb

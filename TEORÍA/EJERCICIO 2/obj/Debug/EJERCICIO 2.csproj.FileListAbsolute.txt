@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\EJERCICIO 2\bin\Debug\EJERCICIO 2.exe.config
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\EJERCICIO 2\bin\Debug\EJERCICIO 2.exe
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\EJERCICIO 2\bin\Debug\EJERCICIO 2.pdb
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\EJERCICIO 2\obj\Debug\EJERCICIO 2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\EJERCICIO 2\obj\Debug\EJERCICIO 2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\EJERCICIO 2\obj\Debug\EJERCICIO 2.exe
+C:\Users\UPN\Desktop\Semana 14\TEORÍA\EJERCICIO 2\obj\Debug\EJERCICIO 2.pdb
