@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Semana 15\Ejemplo01\Ejemplo04\bin\Debug\Ejemplo04.exe.config
+C:\Users\UPN\Desktop\Semana 15\Ejemplo01\Ejemplo04\bin\Debug\Ejemplo04.exe
+C:\Users\UPN\Desktop\Semana 15\Ejemplo01\Ejemplo04\bin\Debug\Ejemplo04.pdb
+C:\Users\UPN\Desktop\Semana 15\Ejemplo01\Ejemplo04\obj\Debug\Ejemplo04.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 15\Ejemplo01\Ejemplo04\obj\Debug\Ejemplo04.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 15\Ejemplo01\Ejemplo04\obj\Debug\Ejemplo04.exe
+C:\Users\UPN\Desktop\Semana 15\Ejemplo01\Ejemplo04\obj\Debug\Ejemplo04.pdb
