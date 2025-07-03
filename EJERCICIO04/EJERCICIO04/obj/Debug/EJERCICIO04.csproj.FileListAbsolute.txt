@@ -1,0 +1,8 @@
+C:\Users\Sebastián Salas\OneDrive\Escritorio\EXERCISE\EJERCICIO04\EJERCICIO04\obj\Debug\EJERCICIO04.csproj.AssemblyReference.cache
+C:\Users\Sebastián Salas\OneDrive\Escritorio\EXERCISE\EJERCICIO04\EJERCICIO04\obj\Debug\EJERCICIO04.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Salas\OneDrive\Escritorio\EXERCISE\EJERCICIO04\EJERCICIO04\bin\Debug\EJERCICIO04.exe.config
+C:\Users\Sebastián Salas\OneDrive\Escritorio\EXERCISE\EJERCICIO04\EJERCICIO04\bin\Debug\EJERCICIO04.exe
+C:\Users\Sebastián Salas\OneDrive\Escritorio\EXERCISE\EJERCICIO04\EJERCICIO04\bin\Debug\EJERCICIO04.pdb
+C:\Users\Sebastián Salas\OneDrive\Escritorio\EXERCISE\EJERCICIO04\EJERCICIO04\obj\Debug\EJERCICIO04.exe
+C:\Users\Sebastián Salas\OneDrive\Escritorio\EXERCISE\EJERCICIO04\EJERCICIO04\obj\Debug\EJERCICIO04.pdb
+C:\Users\Sebastián Salas\OneDrive\Escritorio\EXERCISE\EJERCICIO04\EJERCICIO04\obj\Debug\EJERCICIO04.exe.config
