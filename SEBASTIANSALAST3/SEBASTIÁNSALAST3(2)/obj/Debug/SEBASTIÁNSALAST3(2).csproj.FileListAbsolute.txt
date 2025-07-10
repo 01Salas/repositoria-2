@@ -1,0 +1,7 @@
+C:\Users\Sebastián Salas\OneDrive\Escritorio\T3\SEBASTIANSALAST3\SEBASTIÁNSALAST3(2)\bin\Debug\SEBASTIÁNSALAST3(2).exe.config
+C:\Users\Sebastián Salas\OneDrive\Escritorio\T3\SEBASTIANSALAST3\SEBASTIÁNSALAST3(2)\bin\Debug\SEBASTIÁNSALAST3(2).exe
+C:\Users\Sebastián Salas\OneDrive\Escritorio\T3\SEBASTIANSALAST3\SEBASTIÁNSALAST3(2)\bin\Debug\SEBASTIÁNSALAST3(2).pdb
+C:\Users\Sebastián Salas\OneDrive\Escritorio\T3\SEBASTIANSALAST3\SEBASTIÁNSALAST3(2)\obj\Debug\SEBASTIÁNSALAST3(2).csproj.AssemblyReference.cache
+C:\Users\Sebastián Salas\OneDrive\Escritorio\T3\SEBASTIANSALAST3\SEBASTIÁNSALAST3(2)\obj\Debug\SEBASTIÁNSALAST3(2).csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Salas\OneDrive\Escritorio\T3\SEBASTIANSALAST3\SEBASTIÁNSALAST3(2)\obj\Debug\SEBASTIÁNSALAST3(2).exe
+C:\Users\Sebastián Salas\OneDrive\Escritorio\T3\SEBASTIANSALAST3\SEBASTIÁNSALAST3(2)\obj\Debug\SEBASTIÁNSALAST3(2).pdb
