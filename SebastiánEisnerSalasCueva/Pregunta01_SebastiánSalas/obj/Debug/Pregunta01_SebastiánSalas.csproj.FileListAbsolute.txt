@@ -1,0 +1,8 @@
+C:\Users\Sebastián Salas\OneDrive\Escritorio\ING.SISTEMAS\SebastiánEisnerSalasCueva\Pregunta01_SebastiánSalas\bin\Debug\Pregunta01_SebastiánSalas.exe.config
+C:\Users\Sebastián Salas\OneDrive\Escritorio\ING.SISTEMAS\SebastiánEisnerSalasCueva\Pregunta01_SebastiánSalas\bin\Debug\Pregunta01_SebastiánSalas.exe
+C:\Users\Sebastián Salas\OneDrive\Escritorio\ING.SISTEMAS\SebastiánEisnerSalasCueva\Pregunta01_SebastiánSalas\bin\Debug\Pregunta01_SebastiánSalas.pdb
+C:\Users\Sebastián Salas\OneDrive\Escritorio\ING.SISTEMAS\SebastiánEisnerSalasCueva\Pregunta01_SebastiánSalas\obj\Debug\Pregunta01_SebastiánSalas.csproj.AssemblyReference.cache
+C:\Users\Sebastián Salas\OneDrive\Escritorio\ING.SISTEMAS\SebastiánEisnerSalasCueva\Pregunta01_SebastiánSalas\obj\Debug\Pregunta01_SebastiánSalas.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Salas\OneDrive\Escritorio\ING.SISTEMAS\SebastiánEisnerSalasCueva\Pregunta01_SebastiánSalas\obj\Debug\Pregunta01_SebastiánSalas.exe
+C:\Users\Sebastián Salas\OneDrive\Escritorio\ING.SISTEMAS\SebastiánEisnerSalasCueva\Pregunta01_SebastiánSalas\obj\Debug\Pregunta01_SebastiánSalas.pdb
+C:\Users\Sebastián Salas\OneDrive\Escritorio\ING.SISTEMAS\SebastiánEisnerSalasCueva\Pregunta01_SebastiánSalas\obj\Debug\Pregunta01_SebastiánSalas.exe.config
